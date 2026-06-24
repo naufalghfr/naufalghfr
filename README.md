@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Muhammad Naufal Ghifari
 
-🚀 **Data Analytics Engineer & Software Design**
-💡 Transforming complex data into clear insights and building reliable data pipelines.
+🚀 **Data Analytics Engineer & Software Design** who transforming complex data into clear insights and building reliable data pipelines.
 
 ## 🧠 About Me
 
